@@ -27,24 +27,31 @@ In brief Following are the steps
 ## Dataset Structure
 --> Coil20-unproc
 
---> Train
+--> **Train**
+  -->obj1
+  -->obj2
+  -->obj3
+  -->obj4
+  -->obj5   
+  
+  For Training
+  
+--> **Test**
   -->obj1
   -->obj2
   -->obj3
   -->obj4
   -->obj5
   
---> Test
+  
+  For Testing
+  
+--> **Val**
   -->obj1
   -->obj2
   -->obj3
   -->obj4
   -->obj5
   
---> Val
-  -->obj1
-  -->obj2
-  -->obj3
-  -->obj4
-  -->obj5
-5) Test
+  
+  For Validating
