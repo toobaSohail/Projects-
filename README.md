@@ -55,3 +55,10 @@ In brief Following are the steps
   
   
   For Validating
+
+
+## Dependencies
+1) Shutil
+2) numpy
+3) Keras
+4) TensorFlow
