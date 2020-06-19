@@ -1,2 +1,13 @@
 # Projects-
 This repository contains project from datacamp and also other object detection related project.
+
+## Project Predicting Credit Card Approvals
+It is a project from DataCamp. This application is developed to automate credit Card applications. When we manually analyze The huge number of credit card applications, our lot of time and effort is consumed. So, to minimize the time and effort. This application is developed. 
+**Steps**
+1) First, we will start off by loading and viewing the dataset.
+2) We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries.
+3) We will have to preprocess the dataset to ensure the machine learning model we choose can make good predictions.
+4) After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
+5) Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.
+
+This application can be run by downloading the repositor and running al the cells.
